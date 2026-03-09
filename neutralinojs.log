@@ -1,0 +1,205 @@
+INFO 2026-03-08 12:02:28,636 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:02:31,158 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:02:32,020 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:06:51,723 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:06:54,181 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:06:54,984 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:07:54,291 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:07:56,356 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:07:57,181 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:09:38,882 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:09:41,080 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:09:41,847 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:10:09,719 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:10:11,671 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:10:12,480 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:11:18,183 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:11:20,825 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:11:21,719 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:11:42,610 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:11:45,004 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:11:46,011 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:12:38,676 Reloading the application... api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:12:38,811 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:12:48,844 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:12:51,455 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:12:52,217 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:13:07,618 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:13:10,180 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:13:10,984 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:14:34,078 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:14:36,768 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:14:37,543 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:14:59,442 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:15:01,892 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:15:02,640 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:16:17,342 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:16:20,249 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:16:21,325 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:16:54,874 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:16:57,295 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:16:58,292 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:17:26,640 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:17:29,474 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:17:30,267 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:17:45,337 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:17:47,579 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:17:48,419 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:18:00,861 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:18:03,292 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:18:04,136 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:18:54,904 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:18:57,544 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:18:58,326 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:19:55,253 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:19:58,058 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:19:58,997 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:20:42,257 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:20:44,848 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:20:45,705 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:21:15,164 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:21:17,835 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:21:18,563 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:23:19,786 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:23:22,363 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:23:23,459 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:23:51,131 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:23:54,132 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:23:55,070 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:24:24,242 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:24:26,852 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:24:27,555 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:24:45,812 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:24:48,643 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:24:49,385 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:25:55,832 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:25:58,260 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:25:59,039 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:26:22,623 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:26:24,958 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:26:25,626 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:26:48,960 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:26:51,282 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:26:52,041 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:27:27,867 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:27:30,042 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:27:30,831 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:27:53,074 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:27:55,337 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:27:56,101 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:28:14,152 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:28:16,551 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:28:17,282 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:30:18,048 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:30:20,285 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:30:21,032 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:32:35,673 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:32:38,198 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:32:38,932 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:33:33,906 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:33:36,201 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:33:36,975 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:34:07,717 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:34:09,896 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:34:10,702 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:36:26,501 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:36:29,730 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:36:30,416 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:37:25,896 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:37:28,975 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:37:29,828 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:39:16,622 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:39:19,430 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:39:20,184 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:39:36,021 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:39:39,008 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:39:39,718 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:40:16,163 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:40:18,594 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:40:19,341 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:43:31,073 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:43:34,370 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:43:35,196 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:44:16,021 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:44:18,634 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:44:19,340 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:48:29,398 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:48:31,942 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:48:32,848 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:49:32,372 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:49:35,045 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:49:35,835 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:49:58,161 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:50:01,097 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:50:01,919 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:50:23,344 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:50:26,266 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:50:27,076 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:51:13,558 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:51:16,060 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:51:16,895 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 12:58:11,124 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:58:12,890 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 12:58:13,710 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 14:18:29,767 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:18:32,819 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:18:33,924 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:18:39,203 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 14:19:56,734 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:20:00,194 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:20:00,932 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:20:03,767 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 14:23:30,022 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:23:32,567 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:23:33,347 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:23:36,156 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 14:25:08,648 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:25:10,929 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:25:11,804 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:25:14,444 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 14:49:06,316 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:49:09,869 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:49:10,440 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:49:13,698 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:49:17,195 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 14:58:05,850 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:58:08,102 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:58:08,979 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:58:11,502 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:58:11,508 NE_RS_UNBLDRE: Unable to load application resource file /resources/editor.js api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:58:15,259 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 14:59:39,867 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:59:42,155 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:59:42,873 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:59:45,276 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:59:45,281 NE_RS_UNBLDRE: Unable to load application resource file /resources/editor.js api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 14:59:48,005 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 15:02:42,823 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:02:45,512 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:02:46,410 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:02:50,048 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:02:50,054 NE_RS_UNBLDRE: Unable to load application resource file /resources/editor.js api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:02:55,312 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:03:17,181 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:03:17,195 NE_RS_UNBLDRE: Unable to load application resource file /resources/editor.js api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:03:19,891 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 15:03:57,085 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:00,119 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:00,867 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:02,969 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:03,002 NE_RS_UNBLDRE: Unable to load application resource file /resources/editor.js api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:06,733 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 15:04:39,108 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:41,917 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:42,579 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:45,795 NE_RS_UNBLDRE: Unable to load application resource file /resources/editor.js api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:45,802 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:04:48,872 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+INFO 2026-03-08 15:05:37,947 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:05:40,690 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:05:41,488 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:05:45,596 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:05:45,604 NE_RS_UNBLDRE: Unable to load application resource file /resources/editor.js api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:05:51,033 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:06:09,776 NE_RS_UNBLDRE: Unable to load application resource file /resources/editor.js api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
+ERROR 2026-03-08 15:06:09,778 NE_RS_UNBLDRE: Unable to load application resource file /resources/.well-known/appspecific/com.chrome.devtools.json api\debug\debug.cpp:20 Ilker@DESKTOP-6HUMAGF
